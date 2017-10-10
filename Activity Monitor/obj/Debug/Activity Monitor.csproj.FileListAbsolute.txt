@@ -1,0 +1,10 @@
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\bin\Debug\Activity Monitor.exe.config
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\bin\Debug\Activity Monitor.exe
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\bin\Debug\Activity Monitor.pdb
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity Monitor.csprojResolveAssemblyReference.cache
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity_Monitor.Form1.resources
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity_Monitor.Properties.Resources.resources
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity Monitor.csproj.GenerateResource.Cache
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity Monitor.exe
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity Monitor.pdb
+\\TYB-PC\Projects\Monitor\Activity Monitor\Activity Monitor\obj\Debug\Activity_Monitor.mc.resources

@@ -1,0 +1,17 @@
+echo MsgBox "Message Description",0+16,"Title"  >%temp%\TEMPmessage.vbs
+
+
+0 = Ok Button  
+1 = Ok/Cancel Button  
+2 = Abort/Retry/Ignore button  
+3 = Yes/No/Cancel  
+4 = Yes/No  
+
+16 – Critical Icon  
+32 – Warning Icon  
+48 – Warning Message Icon   
+64 – Information Icon  
+
+echo MSGBOX "YOUR MESSAGE" > %temp%\TEMPmessage.vbs
+call %temp%\TEMPmessage.vbs
+del %temp%\TEMPmessage.vbs /f /q
